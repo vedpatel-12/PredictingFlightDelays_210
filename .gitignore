@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large data files (airports.csv is a small lookup table — keep it tracked)
+*.csv
+!airports.csv
+
+# Generated output images
+*.png
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

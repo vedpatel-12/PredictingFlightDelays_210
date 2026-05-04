@@ -1,0 +1,262 @@
+IATA,LATITUDE,LONGITUDE,NAME
+ATL,33.6407,-84.4277,Hartsfield-Jackson Atlanta International
+LAX,33.9425,-118.4081,Los Angeles International
+ORD,41.9742,-87.9073,Chicago O'Hare International
+DFW,32.8998,-97.0403,Dallas/Fort Worth International
+DEN,39.8561,-104.6737,Denver International
+JFK,40.6413,-73.7781,John F. Kennedy International
+SFO,37.6213,-122.3790,San Francisco International
+SEA,47.4502,-122.3088,Seattle-Tacoma International
+LAS,36.0840,-115.1537,Harry Reid International
+MCO,28.4294,-81.3089,Orlando International
+EWR,40.6895,-74.1745,Newark Liberty International
+PHX,33.4373,-112.0078,Phoenix Sky Harbor International
+IAH,29.9902,-95.3368,George Bush Intercontinental
+MIA,25.7959,-80.2870,Miami International
+BOS,42.3656,-71.0096,Boston Logan International
+MSP,44.8848,-93.2223,Minneapolis-Saint Paul International
+DTW,42.2162,-83.3554,Detroit Metropolitan Wayne County
+PHL,39.8719,-75.2411,Philadelphia International
+LGA,40.7772,-73.8726,LaGuardia
+FLL,26.0726,-80.1527,Fort Lauderdale-Hollywood International
+BWI,39.1754,-76.6683,Baltimore/Washington International
+DCA,38.8512,-77.0402,Ronald Reagan Washington National
+MDW,41.7868,-87.7522,Chicago Midway International
+TPA,27.9755,-82.5332,Tampa International
+DAL,32.8471,-96.8517,Dallas Love Field
+SLC,40.7884,-111.9778,Salt Lake City International
+IAD,38.9531,-77.4565,Washington Dulles International
+PDX,45.5898,-122.5951,Portland International
+HOU,29.6454,-95.2789,William P. Hobby
+AUS,30.1975,-97.6664,Austin-Bergstrom International
+MCI,39.2976,-94.7139,Kansas City International
+RDU,35.8776,-78.7875,Raleigh-Durham International
+SAN,32.7338,-117.1933,San Diego International
+STL,38.7487,-90.3700,St. Louis Lambert International
+HNL,21.3187,-157.9225,Daniel K. Inouye International
+BNA,36.1245,-86.6782,Nashville International
+CLE,41.4117,-81.8498,Cleveland Hopkins International
+PIT,40.4915,-80.2329,Pittsburgh International
+MKE,42.9472,-87.8966,Milwaukee Mitchell International
+CVG,39.0488,-84.6678,Cincinnati/Northern Kentucky International
+IND,39.7173,-86.2944,Indianapolis International
+CMH,39.9980,-82.8919,John Glenn Columbus International
+OAK,37.7213,-122.2208,Oakland International
+SJC,37.3626,-121.9290,Norman Y. Mineta San Jose International
+SMF,38.6954,-121.5908,Sacramento International
+ABQ,35.0402,-106.6090,Albuquerque International Sunport
+RNO,39.4991,-119.7681,Reno-Tahoe International
+BUR,34.2007,-118.3585,Hollywood Burbank Airport
+ONT,34.0560,-117.6011,Ontario International
+OGG,20.8986,-156.4305,Kahului Airport
+KOA,19.7388,-156.0456,Ellison Onizuka Kona International
+LIH,21.9760,-159.3388,Lihue Airport
+ITO,19.7213,-155.0484,Hilo International
+GEG,47.6199,-117.5339,Spokane International
+BOI,43.5644,-116.2228,Boise Airport
+MFR,42.3742,-122.8735,Rogue Valley International-Medford
+EUG,44.1246,-123.2119,Eugene Airport
+TUS,32.1161,-110.9410,Tucson International
+FAT,36.7762,-119.7182,Fresno Yosemite International
+ELP,31.8072,-106.3779,El Paso International
+SAT,29.5337,-98.4698,San Antonio International
+OKC,35.3931,-97.6007,Will Rogers World Airport
+TUL,36.1984,-95.8881,Tulsa International
+LIT,34.7294,-92.2243,Bill and Hillary Clinton National
+MEM,35.0424,-89.9767,Memphis International
+BHM,33.5629,-86.7535,Birmingham-Shuttlesworth International
+HSV,34.6372,-86.7751,Huntsville International
+MSY,29.9934,-90.2580,Louis Armstrong New Orleans International
+JAX,30.4941,-81.6879,Jacksonville International
+TLH,30.3965,-84.3503,Tallahassee International
+RSW,26.5362,-81.7552,Southwest Florida International
+PBI,26.6832,-80.0956,Palm Beach International
+MYR,33.6797,-78.9283,Myrtle Beach International
+CHS,32.8986,-80.0405,Charleston International
+GSP,34.8957,-82.2189,Greenville-Spartanburg International
+CLT,35.2140,-80.9431,Charlotte Douglas International
+GSO,36.0978,-79.9373,Piedmont Triad International
+ORF,36.8976,-76.0133,Norfolk International
+RIC,37.5052,-77.3197,Richmond International
+SDF,38.1744,-85.7360,Louisville Muhammad Ali International
+LEX,38.0365,-84.6059,Blue Grass Airport
+DAY,39.9024,-84.2194,Dayton International
+GRR,42.8808,-85.5228,Gerald R. Ford International
+DSM,41.5340,-93.6631,Des Moines International
+CID,41.8842,-91.7108,The Eastern Iowa Airport
+MSN,43.1399,-89.3375,Dane County Regional
+GRB,44.4851,-88.1296,Green Bay Austin Straubel International
+ROC,43.1189,-77.6724,Greater Rochester International
+BUF,42.9405,-78.7322,Buffalo Niagara International
+SYR,43.1112,-76.1063,Syracuse Hancock International
+ALB,42.7483,-73.8017,Albany International
+BTV,44.4720,-73.1533,Burlington International
+PWM,43.6462,-70.3094,Portland International Jetport
+PVD,41.7272,-71.4282,Theodore Francis Green Memorial
+BDL,41.9388,-72.6832,Bradley International
+AVL,35.4362,-82.5418,Asheville Regional
+FAY,35.0018,-78.8800,Fayetteville Regional
+ILM,34.2706,-77.9026,Wilmington International
+XNA,36.2819,-94.3068,Northwest Arkansas National
+GPT,30.4073,-89.0701,Gulfport-Biloxi International
+JAN,32.3112,-90.0759,Jackson-Medgar Wiley Evers International
+SHV,32.4466,-93.8256,Shreveport Regional
+BTR,30.5332,-91.1496,Baton Rouge Metropolitan
+VPS,30.4832,-86.5254,Destin-Fort Walton Beach
+PNS,30.4734,-87.1866,Pensacola International
+ECP,30.3581,-85.7997,Northwest Florida Beaches International
+SRQ,27.3954,-82.5544,Sarasota Bradenton International
+PIE,27.9102,-82.6874,St. Pete-Clearwater International
+MLB,28.1028,-80.6453,Melbourne Orlando International
+GNV,29.6900,-82.2717,Gainesville Regional
+EYW,24.5561,-81.7596,Key West International
+MOB,30.6912,-88.2428,Mobile Regional
+CRP,27.7704,-97.5012,Corpus Christi International
+MAF,31.9425,-102.2019,Midland International
+HRL,26.2285,-97.6544,Valley International
+MFE,26.1758,-98.2386,McAllen Miller International
+ABI,32.4113,-99.6819,Abilene Regional
+TYS,35.8110,-83.9940,McGhee Tyson Airport
+CHA,35.0353,-85.2038,Lovell Field
+ICT,37.6499,-97.4331,Wichita Dwight D. Eisenhower National
+OMA,41.3032,-95.8941,Eppley Airfield
+FSD,43.5820,-96.7419,Sioux Falls Regional
+BIS,46.7727,-100.7467,Bismarck Municipal
+FAR,46.9207,-96.8157,Hector International
+GFK,47.9493,-97.1761,Grand Forks International
+RAP,44.0453,-103.0574,Rapid City Regional
+COS,38.8059,-104.7008,Colorado Springs Airport
+GJT,39.1224,-108.5267,Grand Junction Regional
+DRO,37.1515,-107.7537,Durango-La Plata County
+MTJ,38.5098,-107.8938,Montrose Regional
+ASE,39.2232,-106.8688,Aspen-Pitkin County
+HDN,40.4812,-107.2181,Yampa Valley Regional
+EGE,39.6426,-106.9177,Eagle County Regional
+PSP,33.8297,-116.5067,Palm Springs International
+SBP,35.2368,-120.6424,San Luis Obispo County Regional
+SBA,34.4262,-119.8403,Santa Barbara Airport
+SNA,33.6757,-117.8676,John Wayne Airport
+LGB,33.8177,-118.1516,Long Beach Airport
+SFB,28.7776,-81.2375,Orlando Sanford International
+ACY,39.4576,-74.5772,Atlantic City International
+HPN,41.0670,-73.7076,Westchester County Airport
+MDT,40.1935,-76.7634,Harrisburg International
+ABE,40.6521,-75.4408,Lehigh Valley International
+PHF,37.1319,-76.4930,Newport News/Williamsburg International
+TRI,36.4752,-82.4074,Tri-Cities Regional
+CRW,38.3731,-81.5932,Yeager Airport
+BGR,44.8074,-68.8281,Bangor International
+MHT,42.9326,-71.4357,Manchester-Boston Regional
+SBN,41.7087,-86.3173,South Bend International
+FWA,40.9785,-85.1952,Fort Wayne International
+EVV,37.8329,-87.5324,Evansville Regional
+SPI,39.8441,-89.6779,Abraham Lincoln Capital Airport
+MLI,41.4483,-90.5075,Quad City International
+MGM,32.3006,-86.3940,Montgomery Regional
+DHN,31.3213,-85.4496,Dothan Regional
+TUP,34.2681,-88.7699,Tupelo Regional
+JLN,37.1518,-94.4983,Joplin Regional
+SGF,37.2457,-93.3886,Springfield-Branson National
+FSM,35.3366,-94.3675,Fort Smith Regional
+TXK,33.4539,-93.9910,Texarkana Regional
+MLU,32.5109,-92.0376,Monroe Regional
+LFT,30.2053,-91.9877,Lafayette Regional
+ANC,61.1744,-149.9982,Ted Stevens Anchorage International
+FAI,64.8151,-147.8560,Fairbanks International
+JNU,58.3550,-134.5762,Juneau International
+KTN,55.3556,-131.7137,Ketchikan International
+SIT,57.0471,-135.3614,Sitka Rocky Gutierrez Airport
+BET,60.7779,-161.8380,Bethel Airport
+OME,64.5122,-165.4452,Nome Airport
+OTZ,66.8879,-162.5987,Ralph Wien Memorial Airport
+ADQ,57.7500,-152.4939,Kodiak Airport
+CDV,60.4919,-145.4778,Merle K Smith Airport
+SCC,70.1940,-148.4652,Deadhorse Airport
+AKN,58.6768,-156.6493,King Salmon Airport
+YAK,59.5033,-139.6600,Yakutat Airport
+GUM,13.4834,144.7957,Antonio B. Won Pat International
+SJU,18.4394,-66.0018,Luis Munoz Marin International
+STT,18.3373,-64.9730,Cyril E. King Airport
+STX,17.7019,-64.7985,Henry E. Rohlsen Airport
+MKK,21.1529,-157.0960,Molokai Airport
+LNY,20.7856,-156.9514,Lanai Airport
+JHM,20.9629,-156.6753,Kapalua Airport
+HHH,32.2244,-80.6975,Hilton Head Airport
+SAV,32.1276,-81.2021,Savannah/Hilton Head International
+AGS,33.3699,-81.9645,Augusta Regional at Bush Field
+CAE,33.9389,-81.1195,Columbia Metropolitan
+MYR,33.6797,-78.9283,Myrtle Beach International
+RDM,44.2541,-121.1500,Redmond Municipal
+MFR,42.3742,-122.8735,Medford Airport
+OTH,43.4171,-124.2458,Southwest Oregon Regional
+ACV,40.9781,-124.1086,California Redwood Coast
+STS,38.5090,-122.8127,Charles M. Schulz-Sonoma County
+SCK,37.8942,-121.2383,Stockton Metropolitan
+MOD,37.6258,-120.9544,Modesto City-County
+BFL,35.4336,-119.0568,Meadows Field
+MRY,36.5870,-121.8432,Monterey Regional
+SBD,34.0954,-117.2350,San Bernardino International
+CEC,41.7802,-124.2367,Del Norte County
+TWF,42.4818,-114.4877,Magic Valley Regional
+SUN,43.5044,-114.2966,Friedman Memorial
+PIH,42.9098,-112.5960,Pocatello Regional
+IDA,43.5146,-112.0705,Idaho Falls Regional
+LWS,46.3745,-117.0153,Lewiston Nez Perce County
+BZN,45.7775,-111.1528,Bozeman Yellowstone International
+BTM,45.9548,-112.4975,Bert Mooney Airport
+HLN,46.6068,-111.9833,Helena Regional
+GTF,47.4820,-111.3706,Great Falls International
+BIL,45.8077,-108.5430,Billings Logan International
+MSO,46.9163,-114.0906,Missoula Montana Airport
+JAC,43.6073,-110.7377,Jackson Hole Airport
+CPR,42.9080,-106.4644,Natrona County International
+CYS,41.1557,-104.8119,Cheyenne Regional
+LAR,41.3121,-105.6750,Laramie Regional
+RKS,41.5942,-109.0652,Southwest Wyoming Regional
+PIR,44.3827,-100.2864,Pierre Regional
+ABR,45.4491,-98.4218,Aberdeen Regional
+HON,44.3852,-98.2285,Huron Regional
+ATY,44.9145,-97.1527,Watertown Regional
+BRD,46.3983,-94.1371,Brainerd Lakes Regional
+DLH,46.8421,-92.1936,Duluth International
+HIB,47.3866,-92.8390,Range Regional Airport
+INL,48.5662,-93.4031,Falls International Baudette
+LSE,43.8790,-91.2567,La Crosse Regional
+RST,43.9083,-92.5000,Rochester International
+MKG,43.1695,-86.2382,Muskegon County
+TVC,44.7414,-85.5822,Cherry Capital Airport
+PLN,45.5708,-84.7967,Pellston Regional
+CMX,47.1684,-88.4889,Houghton County Memorial
+ESC,45.7227,-87.0937,Delta County Airport
+AZO,42.2350,-85.5521,Kalamazoo/Battle Creek International
+LAN,42.7787,-84.5874,Capital Region International
+FNT,42.9655,-83.7436,Bishop International
+MBS,43.5329,-84.0800,MBS International
+TOL,41.5868,-83.8078,Toledo Express
+HTS,38.3667,-82.5580,Tri-State Airport
+EKN,38.8894,-79.8571,Elkins-Randolph County
+CKB,39.2966,-80.2281,North Central West Virginia
+MGW,39.6429,-79.9163,Morgantown Municipal
+LWB,37.8583,-80.4014,Greenbrier Valley
+BLF,37.2958,-81.2077,Mercer County
+PKB,39.3451,-81.4392,Mid-Ohio Valley Regional
+ACT,31.6113,-97.2305,Waco Regional
+GRK,31.0672,-97.8289,Killeen-Fort Hood Regional
+SJT,31.3577,-100.4963,San Angelo Regional
+LRD,27.5438,-99.4616,Laredo International
+BRO,25.9068,-97.4259,Brownsville/South Padre Island International
+AMA,35.2194,-101.7059,Rick Husband Amarillo International
+LBB,33.6636,-101.8228,Lubbock Preston Smith International
+SPS,33.9888,-98.4919,Wichita Falls Regional
+ACT,31.6113,-97.2305,Waco Regional
+GGG,32.3840,-94.7115,East Texas Regional
+TYR,32.3541,-95.4024,Tyler Pounds Regional
+SHV,32.4466,-93.8256,Shreveport Regional
+MLU,32.5109,-92.0376,Monroe Regional
+AGS,33.3699,-81.9645,Augusta Regional
+SAV,32.1276,-81.2021,Savannah Hilton Head International
+BQK,31.2588,-81.4665,Brunswick Golden Isles Airport
+VLD,30.7825,-83.2767,Valdosta Regional
+ABY,31.5355,-84.1945,Southwest Georgia Regional
+CSG,32.5163,-84.9389,Columbus Airport
+MCN,32.6928,-83.6492,Middle Georgia Regional
