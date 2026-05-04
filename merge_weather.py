@@ -11,20 +11,20 @@ Run after fetch_weather.py:
 
 import pandas as pd
 
-# ── Configuration ──────────────────────────────────────────────────────────────
+
 FLIGHTS_CSV = "cleaned_flights.csv"   # produced by clean_data.py
 WEATHER_CSV = "weather_cache.csv"     # produced by fetch_weather.py
 OUTPUT_CSV  = "flights_with_weather.csv"
 
-# ── Load flights ───────────────────────────────────────────────────────────────
+
 print(f"Loading {FLIGHTS_CSV}...")
 flights = pd.read_csv(FLIGHTS_CSV, low_memory=False)
 print(f"  Shape: {flights.shape}")
 
-# Normalize FL_DATE to a plain date string (YYYY-MM-DD) so the join key matches.
+# Normalize FL_DATE to a plain date string (YYYY-MM-DD) so that the join key matches.
 flights["FL_DATE"] = pd.to_datetime(flights["FL_DATE"]).dt.strftime("%Y-%m-%d")
 
-# ── Load weather cache ─────────────────────────────────────────────────────────
+
 print(f"\nLoading {WEATHER_CSV}...")
 weather = pd.read_csv(WEATHER_CSV)
 print(f"  Shape: {weather.shape}")
@@ -33,7 +33,7 @@ print(f"  Columns: {weather.columns.tolist()}")
 # Normalize FL_DATE in weather cache as well
 weather["FL_DATE"] = pd.to_datetime(weather["FL_DATE"]).dt.strftime("%Y-%m-%d")
 
-# ── Merge flights + weather ────────────────────────────────────────────────────
+
 # Left join keeps ALL flight rows. Flights at airports not in the weather cache
 # will have NaN for the weather columns (handled in model files via fillna).
 #
@@ -44,7 +44,7 @@ print("\nMerging flights with weather on ORIGIN + FL_DATE...")
 merged = flights.merge(weather, on=["ORIGIN", "FL_DATE"], how="left")
 print(f"  Merged shape: {merged.shape}")
 
-# ── Report match quality ───────────────────────────────────────────────────────
+
 total   = len(merged)
 matched = merged["temperature_2m_max"].notna().sum()
 missing = total - matched
@@ -62,7 +62,6 @@ if missing > 0:
     print(f"\n  Top airports with missing weather:")
     print(missing_airports.to_string())
 
-# ── Fill NaN weather values with column medians ────────────────────────────────
 # Rather than dropping rows that lack weather data, fill with the median so
 # those flights can still be used for training.
 weather_cols = ["temperature_2m_max", "temperature_2m_min",
@@ -71,7 +70,7 @@ for col in weather_cols:
     if col in merged.columns and merged[col].isnull().any():
         merged[col] = merged[col].fillna(merged[col].median())
 
-# ── Save ───────────────────────────────────────────────────────────────────────
+#Saving
 print(f"\nSaving to {OUTPUT_CSV}...")
 merged.to_csv(OUTPUT_CSV, index=False)
 print(f"Done! {OUTPUT_CSV} saved with shape {merged.shape}")
