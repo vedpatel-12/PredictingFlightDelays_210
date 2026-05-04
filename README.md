@@ -6,36 +6,48 @@ Dataset comes from Kaggle (2019 to 2023 flights) and weather data comes from Ope
 
 Dataset Link: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
-Built by Sarah Menezes, Ved Patel, and Aditya Velagapudi.
+**Built by:** Sarah Menezes, Ved Patel, and Aditya Velagapudi.
 
-What this does
+**What this does**
 
 The goal is to predict if a flight will be delayed before it even takes off.
 
 A delay means the flight leaves more than 15 minutes late or gets cancelled.
 
-The model uses things like:
+**The model uses things like:**
 
 time of flight
 airline
 distance
 weather at the airport
-How to run
+
+**How to run**
+
 Download the dataset from Kaggle
 Put the CSV file in the project folder
-Install dependencies
+Install dependencies:
+
 pip install -r requirements.txt
-Clean the data
+
+Clean the data:
+
 python3 clean_data.py
-Get weather data
+
+Get weather data:
+
 python3 fetch_weather.py
-Merge weather with flights
+
+Merge weather with flights:
+
 python3 merge_weather.py
-Run models
+
+Run models:
+
 python3 model_logistic_regression.py
 python3 model_random_forest.py
 python3 model_gradient_boosting.py
-Data files
+
+**Data files:**
 
 flights_sample_3m.csv
 raw flight data
@@ -52,7 +64,7 @@ final dataset used for models
 airports.csv
 maps airport codes to location
 
-Models used
+**Models used**
 
 Logistic Regression
 simple and fast baseline
@@ -63,12 +75,12 @@ handles more complex patterns
 Gradient Boosting
 best performance, builds models step by step
 
-Important note
+**Important note**
 
 Only data that is known before the flight is used.
 
 Things like actual delay time or arrival time are removed so the model does not cheat.
 
-Output
+**Output**
 
 Each model prints results in the terminal and saves charts as images.
