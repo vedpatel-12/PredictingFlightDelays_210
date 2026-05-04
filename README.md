@@ -4,6 +4,8 @@ This project predicts if a U.S. flight will be delayed using flight data and wea
 
 Dataset comes from Kaggle (2019 to 2023 flights) and weather data comes from Open-Meteo.
 
+Dataset Link: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+
 Built by Sarah Menezes, Ved Patel, and Aditya Velagapudi.
 
 What this does
